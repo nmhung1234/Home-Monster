@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Glue Gun";
+  src: url('./font//GlueGun.otf');
+}
+@font-face {
+  font-family: "HK Grotesk";
+  src: url('./font//HKGrotesk-Regular.otf');
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segeo UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
